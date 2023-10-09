@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\AzureApp-Razorpages.Web.props" />
+</Project>

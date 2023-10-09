@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\AzureApp-Razorpages.Web.props" />
+</Project>
